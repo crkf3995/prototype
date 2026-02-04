@@ -2,6 +2,5 @@ edu\ezip\ing1\pds\config\ChatCliConfig.class
 edu\ezip\ing1\pds\request\Response.class
 edu\ezip\ing1\pds\service\ChatService.class
 edu\ezip\ing1\pds\MainChatCli.class
-edu\ezip\ing1\pds\service\PatientService.class
-edu\ezip\ing1\pds\MainChatCli$ServiceRequest.class
+edu\ezip\ing1\pds\MainChatCli$ChatServiceRequest.class
 edu\ezip\ing1\pds\request\Request.class

@@ -1,14 +1,10 @@
 edu\ezip\ing1\pds\backend\ChatBackendServer.class
 edu\ezip\ing1\pds\backend\RequestHandler.class
-edu\ezip\ing1\pds\backend\MainBackendServer.class
-edu\ezip\ing1\pds\business\server\patient\DbConnection.class
-edu\ezip\ing1\pds\business\server\patient\PatientService$PatientServiceRequest.class
-edu\ezip\ing1\pds\business\server\RequestService.class
-edu\ezip\ing1\pds\business\server\RequestService$ServiceRequest.class
-edu\ezip\ing1\pds\business\server\patient\PatientService.class
 edu\ezip\ing1\pds\business\server\chat\ChatService$ChatServiceRequest.class
 edu\ezip\ing1\pds\business\server\chat\ChatService.class
-edu\ezip\ing1\pds\business\server\patient\PatientDao.class
+edu\ezip\ing1\pds\backend\MainBackendServer.class
 edu\ezip\ing1\pds\backend\request\Response.class
 edu\ezip\ing1\pds\backend\config\ChatServerConfiguration.class
 edu\ezip\ing1\pds\backend\request\Request.class
+edu\ezip\ing1\pds\business\server\RequestService.class
+edu\ezip\ing1\pds\business\server\RequestService$ServiceRequest.class

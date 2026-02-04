@@ -1,8 +1,3 @@
-edu\ezip\ing1\pds\business\dto\ListPatientsRequest.class
-edu\ezip\ing1\pds\business\dto\Shutdown.class
-edu\ezip\ing1\pds\business\dto\ListPatientsResponse.class
-edu\ezip\ing1\pds\business\dto\PatientDto.class
 edu\ezip\ing1\pds\business\dto\AskHello.class
-edu\ezip\ing1\pds\business\dto\DeletePatientRequest.class
-edu\ezip\ing1\pds\business\dto\CreatePatientRequest.class
+edu\ezip\ing1\pds\business\dto\Shutdown.class
 edu\ezip\ing1\pds\business\dto\HelloAnswer.class
